@@ -15,6 +15,3 @@ const binarySearch = (arr, item) => {
     }
     return result;
 };
-
-let myArray = [1, 3, 5, 7, 9];
-console.log(binarySearch(myArray, 3));
